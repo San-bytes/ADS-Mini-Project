@@ -31,7 +31,7 @@ How to Use
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone (https://github.com/San-bytes/ADS-Mini-Project/tree/main)
 Open main.ipynb
 Use Jupyter Notebook, JupyterLab, or VS Code to open and run the analysis step by step.
 
